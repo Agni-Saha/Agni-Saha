@@ -23,8 +23,8 @@
     HTML • CSS • SASS • JavaScript • React.js • Next.js • GSAP • Framer Motion
 </h4>
 <h4>
-    I'm currently learning WebGL and Three.js along with refining my hold over GSAP and Framer Motion
-    so that I can incorporate all the unique ideas in my head to a web screen.
+    I'm currently learning WebGL and Three.js along with refining my hold over GSAP and Framer Motion <br />
+    so that I can transfer all the unique design ideas in my head to a web screen.
 </h4>
     
 <h3>Below are the featured artworks that I'm most proud of</h3>
