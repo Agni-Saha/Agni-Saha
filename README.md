@@ -22,13 +22,6 @@
     Programming Languages and Techs that I mostly use <br/>
     HTML • CSS • SASS • JavaScript • React.js • Next.js • GSAP • Framer Motion
 </h4>
-
-## :computer: Technologies I Love
-* Flutter
-* Machine Learning
-* Data Science
-* Frontend and Backend Web Development
-
 <h3>
     I'm currently learning WebGL and Three.js along with refining my hold over GSAP and Framer Motion
     so that I can incorporate all the unique ideas in my head to a web screen.
