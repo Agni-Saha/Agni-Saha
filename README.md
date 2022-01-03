@@ -20,15 +20,4 @@
     HTML • CSS • SASS • JavaScript • React.js • Next.js • GSAP • Framer Motion
 </h4>
 
-![Metrics](https://metrics.lecoq.io/Agni-Saha?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&achievements=1&isocalendar.duration=half-year&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FKolkata) -->
-
-
-[![Arnab's GitHub stats](https://github-readme-stats.vercel.app/api?username=Agni-Saha&count_private=true&show_icons=true&theme=midnight-purple&border_color=D400ff)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Agni-Saha&theme=highcontrast&ring=D400FF&fire=FFFFFF&currStreakLabel=D400FF&border=D400FF)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agni-Saha&layout=compact&theme=midnight-purple&border_color=D400ff)](https://github.com/anuraghazra/github-readme-stats)
-
-![](https://komarev.com/ghpvc/?username=Agni-Saha&style=flat-square&label=VISITORS+👀)
-
 <h3>Below are the featured artworks that I'm most proud of</h3>
