@@ -29,6 +29,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agni-Saha&layout=compact&theme=midnight-purple&border_color=D400ff)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=Agni-Saha&style=flat-square&label=VISITORS+👀
+![](https://komarev.com/ghpvc/?username=Agni-Saha&style=flat-square&label=VISITORS+👀)
 
 <h3>Below are the featured artworks that I'm most proud of</h3>
