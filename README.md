@@ -18,10 +18,16 @@
     <a href="https://www.linkedin.com/in/agnisaha337599/">Linkedin</a> • 
     <a href="https://www.instagram.com/joe.the.average/">Instagram</a>
 </h4>
-<h3>Programming Languages and Techs that I mostly use</h3>
 <h4>
+    Programming Languages and Techs that I mostly use <br/>
     HTML • CSS • SASS • JavaScript • React.js • Next.js • GSAP • Framer Motion
 </h4>
+
+## :computer: Technologies I Love
+* Flutter
+* Machine Learning
+* Data Science
+* Frontend and Backend Web Development
 
 <h3>
     I'm currently learning WebGL and Three.js along with refining my hold over GSAP and Framer Motion
