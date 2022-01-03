@@ -13,7 +13,7 @@
     <a href="https://www.instagram.com/joe.the.average/">Instagram profile</a>.
 </h5>
 
-<h4> 
+<h4 style="color: #280137"> 
     <a href="https://agni-pfolio.vercel.app/">Website</a> • 
     <a href="https://www.linkedin.com/in/agnisaha337599/">Linkedin</a> • 
     <a href="https://www.instagram.com/joe.the.average/">Instagram</a>
