@@ -27,6 +27,6 @@
     so that I can transfer all the unique design ideas in my head to a web screen.
 </h4>
     
-<h3>Below are the featured artworks that I'm most proud of</h3>
+<h3>Below are the featured artworks that I'm most proud of...</h3>
 <br /><br />
 <h5> (P.s. This is a tough time, I know well enough. So good job on surviving.) </h5>
