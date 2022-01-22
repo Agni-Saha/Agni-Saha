@@ -1,5 +1,5 @@
 <h3>
-    Hey!!!<br>I'm Agni Saha<br>a Coder, Designer, Artist and Frontend Developer
+    Hey!!!<br>I'm Agni Saha<br>Coder, Designer, Artist and Frontend Developer
 </h3>
 <h5>
     I'm a Web Developer and occasional UI/UX Designer who loves making high-quality websites with minimalistic yet clean look.
