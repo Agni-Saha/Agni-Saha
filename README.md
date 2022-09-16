@@ -20,11 +20,11 @@
 </h4>
 <h4>
     Programming Languages and Techs that I mostly use <br/>
-    HTML • CSS • SASS • JavaScript • React.js • Next.js • GSAP • Framer Motion
+    Dart • Flutter • HTML • CSS • SASS • JavaScript • React.js • Next.js • GSAP • Framer Motion
 </h4>
 <h4>
-    I'm currently learning WebGL and Three.js along with refining my hold over GSAP and Framer Motion <br />
-    so that I can transfer all the unique design ideas in my head to a web screen.
+    I'm currently focusing on app development using Flutter and Dart <br />
+    so that I can transfer all the unique design ideas in my head to a cross-platform mobile app.
 </h4>
     
 <h3>Below are the featured artworks that I'm most proud of...</h3>
