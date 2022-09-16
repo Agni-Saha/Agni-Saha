@@ -5,9 +5,9 @@
     Professionally I'm a Flutter Developer with moderate experience of Web Development and occasional UI/UX Designer who loves making high-quality websites with minimalistic yet clean look.
     <br />
     I was a student at <a href="http://www.jaduniv.edu.in/">Jadavpur University</a> and I also love sketching
-    (which is probably the reason why I love designing the websites). 
+    (which is probably the reason why I love designing things, whether it be websites or apps). 
     <br />
-    I'm a Digital Engineer at Tata Digital <a href="https://www.tatadigital.com/">Tata Digital</a>, where I'm working on the Tata Neu app using my expertise on Flutter and Dart <br />
+    I'm a Digital Engineer at Tata Digital <a href="https://www.tatadigital.com/">Tata Digital</a>, where I'm working on the Tata Neu app using my expertise on Flutter and Dart. <br /> <br />
     This is the land where I share my "digital" artworks.
     <br />
     To see my "pen and paper" artworks, you can head over to my 
