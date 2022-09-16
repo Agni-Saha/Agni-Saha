@@ -2,11 +2,12 @@
     Hey!!!<br>I'm Agni Saha<br>Coder, Designer, Artist and Frontend Developer
 </h3>
 <h5>
-    I'm a Web Developer and occasional UI/UX Designer who loves making high-quality websites with minimalistic yet clean look.
+    Professionally I'm a Flutter Developer with moderate experience of Web Development and occasional UI/UX Designer who loves making high-quality websites with minimalistic yet clean look.
     <br />
-    I'm a college student at <a href="http://www.jaduniv.edu.in/">Jadavpur University</a> and I also love sketching
+    I was a student at <a href="http://www.jaduniv.edu.in/">Jadavpur University</a> and I also love sketching
     (which is probably the reason why I love designing the websites). 
     <br />
+    I'm a Digital Engineer at Tata Digital <a href="https://www.tatadigital.com/">Tata Digital</a>, where I'm working on the Tata Neu app using my expertise on Flutter and Dart <br />
     This is the land where I share my "digital" artworks.
     <br />
     To see my "pen and paper" artworks, you can head over to my 
